@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Okan.</h1>
-<h3 align="center">Mobile Developer - Content Creator<br>I'm currently learning ML & AI.</h3>
+<h3 align="center">Software Engineer<br>I'm currently learning .Net & Mobile Development.</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/okankeles/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
