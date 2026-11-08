@@ -12,10 +12,10 @@
 
 ### GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=okankeles&show_icons=true&theme=radical" alt="Okan's GitHub stats" />
+  <img src="https://github-readme-extended.vercel.app/api?username=okankeles&show_icons=true&theme=radical" alt="Okan's GitHub stats" />
 </p>
 
 ### Most Used Languages:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=okankeles&layout=compact&theme=radical" alt="Okan's most used languages" />
+  <img src="https://github-readme-extended.vercel.app/api/top-langs/?username=okankeles&layout=compact&theme=radical" alt="Okan's most used languages" />
 </p>
